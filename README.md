@@ -15,7 +15,7 @@ The target application, **PayGearPlan**, was developed from scratch using PHP an
 ## 🚀 The Penetration Test Report
 The full documentation details a 12-stage attack chain, starting from initial Nmap network mapping, escalating to administrative authentication bypass via SQLi, and culminating in a weaponized XSS payload to seamlessly exfiltrate session cookies over the network for total account takeover.
 
-### [👉 Click Here to Read the Full 12-Stage Penetration Testing Report](PayGearPlan_Penetration_testing\Full-Stack_Web_App_Penetration_testing.md)
+### [👉 Click Here to Read the Full 12-Stage Penetration Testing Report](PayGearPlan_Penetration_testing/Full-Stack_Web_App_Penetration_testing.md)
 
 ---
 
